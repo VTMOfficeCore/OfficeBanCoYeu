@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/diendh/diendh.github.io/master/CRMOne.ipa</string>
+					<string>https://raw.githubusercontent.com/diendh/diendh.github.io/master/OfficeOneSasco.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.viettel.MbAPNs</string>
+				<string>com.viettel.Sasco</string>
 				<key>bundle-version</key>
 				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>CRM</string>
+				<string>SASCO</string>
 			</dict>
 		</dict>
 	</array>
