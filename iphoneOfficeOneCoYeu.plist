@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/VTMOfficeCore/OfficeCore/master/OfficeOneDemo.ipa</string>
+					<string>https://github.com/VTMOfficeCore/OfficeBanCoYeu/raw/master/OfficeOne%20iPhone.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>OfficeOneDemo</string>
+				<string>OfficeOne</string>
 			</dict>
 		</dict>
 	</array>
